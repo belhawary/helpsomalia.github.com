@@ -83,6 +83,7 @@ height:89px;
 #splash{
 background:url(../images/splash.png);
 background-repeat: no-repeat;
+background-position: center;
 height:460px;
 }
 
