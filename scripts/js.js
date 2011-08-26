@@ -8,7 +8,7 @@ function splash()
 
 function next()
 {
-	window.location="choose_lang.html";
+	window.location="./data/countries.html";
 }
 
 // Cookies

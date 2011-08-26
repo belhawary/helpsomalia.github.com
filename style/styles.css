@@ -60,10 +60,21 @@ font-size:20px;
 .website{
 }
 
+.foo{
+text-align:center;
+color:#e8e8e8;
+}
+
 .naviBar{
-background-image:url(../images/naviBar.png);
-height:95px;
-/*margin-left:-200px; */
+background:url(../images/naviBar.png);
+height:89px;
+background-repeat:no-repeat;
+background-position:center;
+}
+
+.naviBarBg{
+background:url(../images/naviBarBg.png);
+height:89px;
 }
 
 .bankAccount{
